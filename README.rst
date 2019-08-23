@@ -1,5 +1,5 @@
-Pay
-===
+IQ
+==
 
 .. image:: https://img.shields.io/pypi/v/iq.svg
     :target: https://pypi.python.org/pypi/iq/
