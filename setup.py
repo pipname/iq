@@ -4,7 +4,7 @@ import io
 from setuptools import setup, find_packages
 from collections import OrderedDict
 
-version = "0.0.1"
+version = "0.0.2"
 
 readme = ''
 with io.open('README.rst', 'rt', encoding='utf8') as f:
@@ -13,7 +13,7 @@ with io.open('README.rst', 'rt', encoding='utf8') as f:
 setup(
     name='iq',
     version=version,
-    description='Pay SDK.',
+    description='IQ SDK.',
     long_description=readme,
     url='https://github.com/pipname/iq',
     keywords='iq sdk',
